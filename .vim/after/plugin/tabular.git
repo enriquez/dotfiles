@@ -1,0 +1,2 @@
+AddTabularPattern! hash /\w:\zs/l0l1
+AddTabularPattern! equals /\zs[=<>/!]\@<!=[=<>/!]\@!.*/

@@ -1,0 +1,12 @@
+brew 'rbenv'
+brew 'reattach-to-user-namespace'
+brew 'the_silver_searcher'
+brew 'tig'
+brew 'tmux'
+brew 'vim'
+brew 'zsh'
+
+cask 'caffeine'
+cask 'hipchat'
+cask 'marked'
+cask 'slack'
